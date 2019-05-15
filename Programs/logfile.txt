@@ -1,0 +1,6 @@
+Line 6: Mar 28 09:10:37 Error: cannot contact server. Connection refused.
+Line 10: Mar 28 10:28:15 Kernel error: The specified location is not mounted.
+Line 14: Mar 28 11:06:30 usb 1-1: can't set config, exiting.
+Line 6: Mar 28 09:10:37 cannot contact server. Connection refused.
+Line 10: Mar 28 10:28:15 Kernel The specified location is not mounted.
+Line 14: Mar 28 11:06:30 ERROR: set config, exiting.

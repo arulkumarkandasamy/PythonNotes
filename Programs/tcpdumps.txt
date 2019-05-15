@@ -1,0 +1,297 @@
+_afpovertcp._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _webdav._tcp.local. (118)
+17:15:15.863028 IP6 fe80::320d:659c:f0a8:45a1.mdns > ff02::fb.mdns: 0 [7q] PTR (QM)? _ftp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _webdav._tcp.local. (118)
+17:15:15.863076 IP 192.168.1.6.mdns > 224.0.0.251.mdns: 0 [7q] PTR (QM)? _ftp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _webdav._tcp.local. (118)
+17:15:15.892155 IP 192.168.1.6.52031 > 192.168.1.1.domain: 32820+ A? pagead2.googlesyndication.com. (47)
+17:15:15.893533 IP 192.168.1.6.57484 > lhr25s12-in-f2.1e100.net.https: Flags [P.], seq 2496:3048, ack 395, win 2028, options [nop,nop,TS val 3888203437 ecr 2626667304], length 552
+17:15:15.893760 IP 192.168.1.6.57484 > lhr25s12-in-f2.1e100.net.https: Flags [P.], seq 3048:3087, ack 395, win 2028, options [nop,nop,TS val 3888203437 ecr 2626667304], length 39
+17:15:15.918118 IP lhr25s12-in-f2.1e100.net.https > 192.168.1.6.57484: Flags [.], ack 3048, win 1050, options [nop,nop,TS val 2626697354 ecr 3888203437], length 0
+17:15:15.918789 IP lhr25s12-in-f2.1e100.net.https > 192.168.1.6.57484: Flags [.], ack 3087, win 1050, options [nop,nop,TS val 2626697354 ecr 3888203437], length 0
+17:15:15.919218 IP lhr25s12-in-f2.1e100.net.https > 192.168.1.6.57484: Flags [P.], seq 395:434, ack 3087, win 1050, options [nop,nop,TS val 2626697354 ecr 3888203437], length 39
+17:15:15.919643 IP 192.168.1.1.domain > 192.168.1.6.52031: 32820 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.206.34 (103)
+17:15:15.961784 IP 192.168.1.6.57484 > lhr25s12-in-f2.1e100.net.https: Flags [.], ack 434, win 2028, options [nop,nop,TS val 3888203505 ecr 2626697354], length 0
+17:15:16.048049 IP lhr25s12-in-f2.1e100.net.https > 192.168.1.6.57484: Flags [P.], seq 434:506, ack 3087, win 1050, options [nop,nop,TS val 2626697484 ecr 3888203505], length 72
+17:15:16.048101 IP 192.168.1.6.57484 > lhr25s12-in-f2.1e100.net.https: Flags [.], ack 506, win 2028, options [nop,nop,TS val 3888203592 ecr 2626697484], length 0
+17:15:16.048620 IP lhr25s12-in-f2.1e100.net.https > 192.168.1.6.57484: Flags [P.], seq 506:579, ack 3087, win 1050, options [nop,nop,TS val 2626697484 ecr 3888203505], length 73
+17:15:16.048660 IP 192.168.1.6.57484 > lhr25s12-in-f2.1e100.net.https: Flags [.], ack 579, win 2028, options [nop,nop,TS val 3888203592 ecr 2626697484], length 0
+17:15:16.048683 IP lhr25s12-in-f2.1e100.net.https > 192.168.1.6.57484: Flags [P.], seq 579:610, ack 3087, win 1050, options [nop,nop,TS val 2626697484 ecr 3888203505], length 31
+17:15:16.048695 IP 192.168.1.6.57484 > lhr25s12-in-f2.1e100.net.https: Flags [.], ack 610, win 2028, options [nop,nop,TS val 3888203592 ecr 2626697484], length 0
+17:15:16.049346 IP lhr25s12-in-f2.1e100.net.https > 192.168.1.6.57484: Flags [P.], seq 610:649, ack 3087, win 1050, options [nop,nop,TS val 2626697484 ecr 3888203505], length 39
+17:15:16.049388 IP 192.168.1.6.57484 > lhr25s12-in-f2.1e100.net.https: Flags [.], ack 649, win 2028, options [nop,nop,TS val 3888203593 ecr 2626697484], length 0
+17:15:16.050218 IP 192.168.1.6.57484 > lhr25s12-in-f2.1e100.net.https: Flags [P.], seq 3087:3126, ack 649, win 2028, options [nop,nop,TS val 3888203594 ecr 2626697484], length 39
+17:15:16.066782 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [P.], seq 18148:18190, ack 43, win 1444, options [nop,nop,TS val 3231232481 ecr 1644141675], length 42
+17:15:16.068310 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [P.], seq 27059:27136, ack 4625, win 1473, length 77
+17:15:16.068387 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 27136:28528, ack 4625, win 1473, length 1392
+17:15:16.068397 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 28528:29920, ack 4625, win 1473, length 1392
+17:15:16.068462 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 29920:31312, ack 4625, win 1473, length 1392
+17:15:16.068470 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 31312:32704, ack 4625, win 1473, length 1392
+17:15:16.070796 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 32704:34096, ack 4625, win 1473, length 1392
+17:15:16.070810 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 34096:35488, ack 4625, win 1473, length 1392
+17:15:16.071594 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 35488:36880, ack 4625, win 1473, length 1392
+17:15:16.095551 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 27136, win 511, length 0
+17:15:16.095652 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 36880:38272, ack 4625, win 1473, length 1392
+17:15:16.108565 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 28528, win 511, length 0
+17:15:16.108617 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 38272:39664, ack 4625, win 1473, length 1392
+17:15:16.111560 IP lhr25s12-in-f2.1e100.net.https > 192.168.1.6.57484: Flags [.], ack 3126, win 1050, options [nop,nop,TS val 2626697547 ecr 3888203594], length 0
+17:15:16.121649 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 29920, win 511, length 0
+17:15:16.121688 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 39664:41056, ack 4625, win 1473, length 1392
+17:15:16.134710 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 31312, win 511, length 0
+17:15:16.134767 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 41056:42448, ack 4625, win 1473, length 1392
+17:15:16.134999 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 4625:4660, ack 31312, win 511, length 35
+17:15:16.159328 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 34096, win 511, length 0
+17:15:16.159388 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 42448:43840, ack 4660, win 1473, length 1392
+17:15:16.159409 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 43840:45232, ack 4660, win 1473, length 1392
+17:15:16.160004 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 4660:4695, ack 34096, win 511, length 35
+17:15:16.185174 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 36880, win 511, length 0
+17:15:16.185218 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 45232:46624, ack 4695, win 1473, length 1392
+17:15:16.185230 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 46624:48016, ack 4695, win 1473, length 1392
+17:15:16.185435 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 4695:4730, ack 36880, win 511, length 35
+17:15:16.202469 IP ec2-52-5-181-79.compute-1.amazonaws.com.https > 192.168.1.6.50898: Flags [.], ack 18190, win 1681, options [nop,nop,TS val 1644149376 ecr 3231232481], length 0
+17:15:16.211071 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 39664, win 511, length 0
+17:15:16.211139 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 48016:49408, ack 4730, win 1473, length 1392
+17:15:16.211169 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 49408:50800, ack 4730, win 1473, length 1392
+17:15:16.211278 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 4730:4765, ack 39664, win 511, length 35
+17:15:16.237148 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 42448, win 511, length 0
+17:15:16.237199 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 50800:52192, ack 4765, win 1473, length 1392
+17:15:16.237218 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 52192:53584, ack 4765, win 1473, length 1392
+17:15:16.237431 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 4765:4800, ack 42448, win 511, length 35
+17:15:16.237684 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [P.], seq 53584:54033, ack 4800, win 1473, length 449
+17:15:16.250042 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 4800:4835, ack 43840, win 511, length 35
+17:15:16.297735 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 4835, win 1473, length 0
+17:15:16.304943 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 45232, win 511, length 0
+17:15:16.315874 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 46624, win 511, length 0
+17:15:16.316175 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 4835:4870, ack 46624, win 511, length 35
+17:15:16.316205 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 4870, win 1473, length 0
+17:15:16.341642 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 49408, win 511, length 0
+17:15:16.364559 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 4870:4905, ack 50800, win 511, length 35
+17:15:16.364598 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 4905, win 1473, length 0
+17:15:16.380874 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 53584, win 511, length 0
+17:15:16.380935 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 4905:4940, ack 53584, win 511, length 35
+17:15:16.380965 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 4940, win 1473, length 0
+17:15:16.426870 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 54033, win 511, length 0
+17:15:16.495012 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], seq 4940:6332, ack 54033, win 511, length 1392
+17:15:16.495056 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 6332, win 1463, length 0
+17:15:16.496009 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], seq 6332:7724, ack 54033, win 511, length 1392
+17:15:16.496038 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 7724, win 1460, length 0
+17:15:16.496736 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], seq 7724:9116, ack 54033, win 511, length 1392
+17:15:16.496755 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 9116, win 1460, length 0
+17:15:16.496766 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9116:9185, ack 54033, win 511, length 69
+17:15:16.496776 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9185:9216, ack 54033, win 511, length 31
+17:15:16.496822 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 9216, win 1473, length 0
+17:15:17.201759 IP 192.168.1.6.58966 > unallocated.barefruit.co.uk.https: Flags [S], seq 1756642129, win 29200, options [mss 1460,sackOK,TS val 714402006 ecr 0,nop,wscale 7], length 0
+17:15:17.201788 IP 192.168.1.6.58960 > unallocated.barefruit.co.uk.https: Flags [S], seq 1847552333, win 29200, options [mss 1460,sackOK,TS val 714402006 ecr 0,nop,wscale 7], length 0
+17:15:17.560950 ARP, Request who-has 192.168.1.3 tell 192.168.1.4, length 28
+17:15:17.560963 ARP, Request who-has 192.168.1.8 tell 192.168.1.4, length 28
+17:15:17.560965 ARP, Request who-has 192.168.1.9 tell 192.168.1.4, length 28
+17:15:17.560967 ARP, Request who-has 192.168.1.10 tell 192.168.1.4, length 28
+17:15:17.560970 ARP, Request who-has 192.168.1.11 tell 192.168.1.4, length 28
+17:15:17.560972 ARP, Request who-has 192.168.1.13 tell 192.168.1.4, length 28
+17:15:17.560983 IP edge-star-shv-01-lht6.facebook.com.https > 192.168.1.6.44712: Flags [P.], seq 2628717792:2628717831, ack 3611433391, win 119, options [nop,nop,TS val 4216259032 ecr 2193124405], length 39
+17:15:17.583720 IP 192.168.1.6.52031 > 192.168.1.1.domain: 14193+ PTR? 8.1.168.192.in-addr.arpa. (42)
+17:15:17.603524 IP 192.168.1.6.52031 > 192.168.1.1.domain: 9772+ PTR? 9.1.168.192.in-addr.arpa. (42)
+17:15:17.626708 IP 192.168.1.6.52031 > 192.168.1.1.domain: 5070+ PTR? 10.1.168.192.in-addr.arpa. (43)
+17:15:17.755745 IP 192.168.1.6.52031 > 192.168.1.1.domain: 24740+ PTR? 11.1.168.192.in-addr.arpa. (43)
+17:15:17.776179 IP 192.168.1.6.52031 > 192.168.1.1.domain: 21415+ PTR? 13.1.168.192.in-addr.arpa. (43)
+17:15:17.802051 IP 192.168.1.6.52031 > 192.168.1.1.domain: 16973+ PTR? 18.1.240.157.in-addr.arpa. (43)
+17:15:17.829082 IP 109.201.149.27.https > 192.168.1.6.39042: Flags [.], ack 4102918883, win 32, options [nop,nop,TS val 2600556594 ecr 2794500138], length 0
+17:15:17.841774 IP 109.201.149.27.https > 192.168.1.6.39042: Flags [P.], seq 0:408, ack 1, win 32, options [nop,nop,TS val 2600556606 ecr 2794500138], length 408
+17:15:17.885772 IP 192.168.1.6.39042 > 109.201.149.27.https: Flags [.], ack 408, win 245, options [nop,nop,TS val 2794500235 ecr 2600556606], length 0
+17:15:17.946490 IP 539.bm-nginx-loadbalancer.mgmt.fra1.adnexus.net.https > 192.168.1.6.50564: Flags [P.], seq 8084:9389, ack 13928, win 107, options [nop,nop,TS val 741727481 ecr 274287508], length 1305
+17:15:17.946536 IP 192.168.1.6.50564 > 539.bm-nginx-loadbalancer.mgmt.fra1.adnexus.net.https: Flags [.], ack 9389, win 381, options [nop,nop,TS val 274287827 ecr 741727481], length 0
+17:15:18.065181 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [P.], seq 54033:54110, ack 9216, win 1473, length 77
+17:15:18.065254 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 54110:55502, ack 9216, win 1473, length 1392
+17:15:18.065262 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 55502:56894, ack 9216, win 1473, length 1392
+17:15:18.065318 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 56894:58286, ack 9216, win 1473, length 1392
+17:15:18.065326 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 58286:59678, ack 9216, win 1473, length 1392
+17:15:18.065975 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 59678:61070, ack 9216, win 1473, length 1392
+17:15:18.065988 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 61070:62462, ack 9216, win 1473, length 1392
+17:15:18.066003 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 62462:63854, ack 9216, win 1473, length 1392
+17:15:18.066007 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 63854:65246, ack 9216, win 1473, length 1392
+17:15:18.091485 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 54110, win 511, length 0
+17:15:18.091598 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 65246:66638, ack 9216, win 1473, length 1392
+17:15:18.104024 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 55502, win 511, length 0
+17:15:18.104071 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 66638:68030, ack 9216, win 1473, length 1392
+17:15:18.117320 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 56894, win 511, length 0
+17:15:18.117372 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 68030:69422, ack 9216, win 1473, length 1392
+17:15:18.130647 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 58286, win 511, length 0
+17:15:18.130715 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 69422:70814, ack 9216, win 1473, length 1392
+17:15:18.130749 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9216:9251, ack 58286, win 511, length 35
+17:15:18.130767 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 9251, win 1473, length 0
+17:15:18.134901 IP 185.94.180.123.https > 192.168.1.6.46934: Flags [P.], seq 1308:2615, ack 1590, win 65535, options [nop,nop,TS val 3158757219 ecr 868938342], length 1307
+17:15:18.134971 IP 192.168.1.6.46934 > 185.94.180.123.https: Flags [.], ack 2615, win 65350, options [nop,nop,TS val 868938848 ecr 3158757219], length 0
+17:15:18.139857 IP 192.168.1.6.46114 > server-143-204-181-227.lhr50.r.cloudfront.net.https: Flags [.], seq 3366:4746, ack 1669, win 1444, options [nop,nop,TS val 3778980360 ecr 2366970032], length 1380
+17:15:18.139875 IP 192.168.1.6.46114 > server-143-204-181-227.lhr50.r.cloudfront.net.https: Flags [.], seq 4746:6126, ack 1669, win 1444, options [nop,nop,TS val 3778980360 ecr 2366970032], length 1380
+17:15:18.140153 IP 192.168.1.6.46114 > server-143-204-181-227.lhr50.r.cloudfront.net.https: Flags [P.], seq 6126:6732, ack 1669, win 1444, options [nop,nop,TS val 3778980361 ecr 2366970032], length 606
+17:15:18.156051 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 61070, win 511, length 0
+17:15:18.156103 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 70814:72206, ack 9251, win 1473, length 1392
+17:15:18.156117 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 72206:73598, ack 9251, win 1473, length 1392
+17:15:18.156263 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9251:9286, ack 61070, win 511, length 35
+17:15:18.181119 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 63854, win 511, length 0
+17:15:18.181164 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 73598:74990, ack 9286, win 1473, length 1392
+17:15:18.181176 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 74990:76382, ack 9286, win 1473, length 1392
+17:15:18.181347 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9286:9321, ack 63854, win 511, length 35
+17:15:18.209262 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 66638, win 511, length 0
+17:15:18.209301 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 76382:77774, ack 9321, win 1473, length 1392
+17:15:18.209314 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 77774:79166, ack 9321, win 1473, length 1392
+17:15:18.209488 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9321:9356, ack 66638, win 511, length 35
+17:15:18.234565 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 69422, win 511, length 0
+17:15:18.234603 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 79166:80558, ack 9356, win 1473, length 1392
+17:15:18.234612 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [P.], seq 80558:81007, ack 9356, win 1473, length 449
+17:15:18.238240 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9356:9391, ack 69422, win 511, length 35
+17:15:18.247879 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9391:9426, ack 70814, win 511, length 35
+17:15:18.248309 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 9426, win 1473, length 0
+17:15:18.269102 IP server-143-204-181-227.lhr50.r.cloudfront.net.https > 192.168.1.6.46114: Flags [.], ack 6126, win 2043, options [nop,nop,TS val 2366972089 ecr 3778980360], length 0
+17:15:18.276718 IP server-143-204-181-227.lhr50.r.cloudfront.net.https > 192.168.1.6.46114: Flags [P.], seq 1669:2469, ack 6732, win 2043, options [nop,nop,TS val 2366972089 ecr 3778980361], length 800
+17:15:18.276783 IP 192.168.1.6.46114 > server-143-204-181-227.lhr50.r.cloudfront.net.https: Flags [.], ack 2469, win 1438, options [nop,nop,TS val 3778980497 ecr 2366972089], length 0
+17:15:18.277171 IP server-143-204-181-227.lhr50.r.cloudfront.net.https > 192.168.1.6.46114: Flags [P.], seq 2469:3337, ack 6732, win 2043, options [nop,nop,TS val 2366972089 ecr 3778980361], length 868
+17:15:18.277204 IP 192.168.1.6.46114 > server-143-204-181-227.lhr50.r.cloudfront.net.https: Flags [.], ack 3337, win 1436, options [nop,nop,TS val 3778980498 ecr 2366972089], length 0
+17:15:18.303317 IP 192.168.1.6.39042 > 109.201.149.27.https: Flags [P.], seq 1:1046, ack 408, win 245, options [nop,nop,TS val 2794500653 ecr 2600556606], length 1045
+17:15:18.306535 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 73598, win 511, length 0
+17:15:18.306793 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9426:9461, ack 73598, win 511, length 35
+17:15:18.333144 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 76382, win 511, length 0
+17:15:18.347674 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9461:9496, ack 77774, win 511, length 35
+17:15:18.347714 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 9496, win 1473, length 0
+17:15:18.373296 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 80558, win 511, length 0
+17:15:18.373529 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9496:9531, ack 80558, win 511, length 35
+17:15:18.396757 IP 109.201.149.27.https > 192.168.1.6.39042: Flags [P.], seq 408:900, ack 1046, win 34, options [nop,nop,TS val 2600557161 ecr 2794500653], length 492
+17:15:18.396800 IP 192.168.1.6.39042 > 109.201.149.27.https: Flags [.], ack 900, win 254, options [nop,nop,TS val 2794500746 ecr 2600557161], length 0
+17:15:18.417652 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 81007, win 511, length 0
+17:15:18.429734 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 9531, win 1473, length 0
+17:15:18.433562 IP 192.168.1.6.58644 > ec2-23-23-120-94.compute-1.amazonaws.com.https: Flags [.], seq 3365:4745, ack 452, win 1444, options [nop,nop,TS val 3207910602 ecr 3875764367], length 1380
+17:15:18.433580 IP 192.168.1.6.58644 > ec2-23-23-120-94.compute-1.amazonaws.com.https: Flags [.], seq 4745:6125, ack 452, win 1444, options [nop,nop,TS val 3207910602 ecr 3875764367], length 1380
+17:15:18.433847 IP 192.168.1.6.58644 > ec2-23-23-120-94.compute-1.amazonaws.com.https: Flags [P.], seq 6125:6730, ack 452, win 1444, options [nop,nop,TS val 3207910602 ecr 3875764367], length 605
+17:15:18.481921 ARP, Request who-has 192.168.1.3 tell 192.168.1.4, length 28
+17:15:18.481937 ARP, Request who-has 192.168.1.8 tell 192.168.1.4, length 28
+17:15:18.481941 ARP, Request who-has 192.168.1.9 tell 192.168.1.4, length 28
+17:15:18.481945 ARP, Request who-has 192.168.1.10 tell 192.168.1.4, length 28
+17:15:18.481948 ARP, Request who-has 192.168.1.11 tell 192.168.1.4, length 28
+17:15:18.481952 ARP, Request who-has 192.168.1.13 tell 192.168.1.4, length 28
+17:15:18.542129 IP 192.168.1.6.36696 > 213.19.162.61.https: Flags [.], seq 3862:5254, ack 1191, win 65535, length 1392
+17:15:18.542175 IP 192.168.1.6.36696 > 213.19.162.61.https: Flags [.], seq 5254:6646, ack 1191, win 65535, length 1392
+17:15:18.542822 IP 192.168.1.6.36696 > 213.19.162.61.https: Flags [P.], seq 6646:7722, ack 1191, win 65535, length 1076
+17:15:18.559077 IP ec2-23-23-120-94.compute-1.amazonaws.com.https > 192.168.1.6.58644: Flags [.], ack 6125, win 696, options [nop,nop,TS val 3875769507 ecr 3207910602], length 0
+17:15:18.567488 IP ec2-23-23-120-94.compute-1.amazonaws.com.https > 192.168.1.6.58644: Flags [P.], seq 452:903, ack 6730, win 696, options [nop,nop,TS val 3875769509 ecr 3207910602], length 451
+17:15:18.567522 IP 192.168.1.6.58644 > ec2-23-23-120-94.compute-1.amazonaws.com.https: Flags [.], ack 903, win 1441, options [nop,nop,TS val 3207910736 ecr 3875769509], length 0
+17:15:18.580011 IP 213.19.162.61.https > 192.168.1.6.36696: Flags [.], ack 5254, win 48720, length 0
+17:15:18.592791 IP 213.19.162.61.https > 192.168.1.6.36696: Flags [.], ack 6646, win 48720, length 0
+17:15:18.603153 IP 213.19.162.61.https > 192.168.1.6.36696: Flags [.], ack 7722, win 50112, length 0
+17:15:18.788866 IP 213.19.162.61.https > 192.168.1.6.36696: Flags [P.], seq 1191:2381, ack 7722, win 50112, length 1190
+17:15:18.788915 IP 192.168.1.6.36696 > 213.19.162.61.https: Flags [.], ack 2381, win 65535, length 0
+17:15:19.070809 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [P.], seq 81007:81095, ack 9531, win 1473, length 88
+17:15:19.070881 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 81095:82487, ack 9531, win 1473, length 1392
+17:15:19.070887 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 82487:83879, ack 9531, win 1473, length 1392
+17:15:19.070947 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 83879:85271, ack 9531, win 1473, length 1392
+17:15:19.070955 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 85271:86663, ack 9531, win 1473, length 1392
+17:15:19.071600 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 86663:88055, ack 9531, win 1473, length 1392
+17:15:19.071624 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 88055:89447, ack 9531, win 1473, length 1392
+17:15:19.071639 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 89447:90839, ack 9531, win 1473, length 1392
+17:15:19.071643 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 90839:92231, ack 9531, win 1473, length 1392
+17:15:19.071977 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 92231:93623, ack 9531, win 1473, length 1392
+17:15:19.096924 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 81095, win 511, length 0
+17:15:19.096965 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 93623:95015, ack 9531, win 1473, length 1392
+17:15:19.109685 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 82487, win 511, length 0
+17:15:19.109749 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 95015:96407, ack 9531, win 1473, length 1392
+17:15:19.122776 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 83879, win 511, length 0
+17:15:19.122841 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 96407:97799, ack 9531, win 1473, length 1392
+17:15:19.136022 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 85271, win 511, length 0
+17:15:19.136224 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 97799:99191, ack 9531, win 1473, length 1392
+17:15:19.136286 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 99191:100583, ack 9531, win 1473, length 1392
+17:15:19.148633 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 86663, win 510, length 0
+17:15:19.148669 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 100583:101975, ack 9531, win 1473, length 1392
+17:15:19.162728 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 88055, win 509, length 0
+17:15:19.162775 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 101975:103367, ack 9531, win 1473, length 1392
+17:15:19.174584 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 89447, win 508, length 0
+17:15:19.174665 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 103367:104759, ack 9531, win 1473, length 1392
+17:15:19.181195 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9531:9566, ack 89447, win 511, length 35
+17:15:19.181241 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 9566, win 1473, length 0
+17:15:19.187841 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9566:9601, ack 90839, win 511, length 35
+17:15:19.187874 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 104759:106151, ack 9601, win 1473, length 1392
+17:15:19.214565 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 93623, win 511, length 0
+17:15:19.214611 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 106151:107543, ack 9601, win 1473, length 1392
+17:15:19.214620 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [P.], seq 107543:107992, ack 9601, win 1473, length 449
+17:15:19.214738 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9601:9636, ack 93623, win 511, length 35
+17:15:19.242344 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 96407, win 511, length 0
+17:15:19.242610 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9636:9671, ack 96407, win 511, length 35
+17:15:19.242722 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 9671, win 1473, length 0
+17:15:19.260547 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9671:9706, ack 97799, win 511, length 35
+17:15:19.302946 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 100583, win 510, length 0
+17:15:19.302990 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 9706, win 1473, length 0
+17:15:19.309808 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9706:9741, ack 101975, win 511, length 35
+17:15:19.329060 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 104759, win 511, length 0
+17:15:19.329377 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9741:9776, ack 104759, win 511, length 35
+17:15:19.329485 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 9776, win 1473, length 0
+17:15:19.355897 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 107543, win 511, length 0
+17:15:19.357612 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 9776:9811, ack 107543, win 511, length 35
+17:15:19.401766 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 107992, win 511, length 0
+17:15:19.405757 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 9811, win 1473, length 0
+17:15:19.506063 ARP, Request who-has 192.168.1.3 tell 192.168.1.4, length 28
+17:15:19.506082 ARP, Request who-has 192.168.1.8 tell 192.168.1.4, length 28
+17:15:19.506087 ARP, Request who-has 192.168.1.9 tell 192.168.1.4, length 28
+17:15:19.506090 ARP, Request who-has 192.168.1.10 tell 192.168.1.4, length 28
+17:15:19.506094 ARP, Request who-has 192.168.1.11 tell 192.168.1.4, length 28
+17:15:19.506398 ARP, Request who-has 192.168.1.13 tell 192.168.1.4, length 28
+17:15:19.813346 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], seq 9811:11203, ack 107992, win 511, length 1392
+17:15:19.813380 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 11203, win 1463, length 0
+17:15:19.813398 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], seq 11203:13987, ack 107992, win 511, length 2784
+17:15:19.813407 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 13987, win 1442, length 0
+17:15:19.813412 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 13987:14036, ack 107992, win 511, length 49
+17:15:19.813416 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 14036:14067, ack 107992, win 511, length 31
+17:15:19.813424 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 14036, win 1473, length 0
+17:15:19.813436 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 14067, win 1473, length 0
+17:15:20.285537 IP 192.168.1.6.38824 > ec2-34-236-124-244.compute-1.amazonaws.com.https: Flags [P.], seq 186:248, ack 169, win 264, options [nop,nop,TS val 4273753252 ecr 2521610527], length 62
+17:15:20.380129 IP ec2-34-236-124-244.compute-1.amazonaws.com.https > 192.168.1.6.38824: Flags [P.], seq 169:225, ack 248, win 110, options [nop,nop,TS val 2521613027 ecr 4273753252], length 56
+17:15:20.380191 IP 192.168.1.6.38824 > ec2-34-236-124-244.compute-1.amazonaws.com.https: Flags [.], ack 225, win 264, options [nop,nop,TS val 4273753347 ecr 2521613027], length 0
+17:15:20.416573 IP ws-in-f189.1e100.net.https > 192.168.1.6.40944: Flags [P.], seq 159:212, ack 1, win 539, options [nop,nop,TS val 376176971 ecr 4294807272], length 53
+17:15:20.416623 IP 192.168.1.6.40944 > ws-in-f189.1e100.net.https: Flags [.], ack 212, win 1364, options [nop,nop,TS val 4294812995 ecr 376176971], length 0
+17:15:21.041992 IP 539.bm-nginx-loadbalancer.mgmt.fra1.adnexus.net.https > 192.168.1.6.50566: Flags [P.], seq 1:32, ack 0, win 80, options [nop,nop,TS val 741728238 ecr 274280898], length 31
+17:15:21.042060 IP 192.168.1.6.50566 > 539.bm-nginx-loadbalancer.mgmt.fra1.adnexus.net.https: Flags [.], ack 32, win 251, options [nop,nop,TS val 274290922 ecr 741728238], length 0
+17:15:21.042100 IP 539.bm-nginx-loadbalancer.mgmt.fra1.adnexus.net.https > 192.168.1.6.50566: Flags [F.], seq 32, ack 0, win 80, options [nop,nop,TS val 741728238 ecr 274280898], length 0
+17:15:21.085751 IP 192.168.1.6.50566 > 539.bm-nginx-loadbalancer.mgmt.fra1.adnexus.net.https: Flags [.], ack 33, win 251, options [nop,nop,TS val 274290966 ecr 741728238], length 0
+17:15:22.069873 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [P.], seq 18190:18288, ack 43, win 1444, options [nop,nop,TS val 3231238484 ecr 1644149376], length 98
+17:15:22.069951 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [.], seq 18288:19668, ack 43, win 1444, options [nop,nop,TS val 3231238484 ecr 1644149376], length 1380
+17:15:22.069957 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [.], seq 19668:21048, ack 43, win 1444, options [nop,nop,TS val 3231238484 ecr 1644149376], length 1380
+17:15:22.070001 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [.], seq 21048:22428, ack 43, win 1444, options [nop,nop,TS val 3231238484 ecr 1644149376], length 1380
+17:15:22.070005 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [.], seq 22428:23808, ack 43, win 1444, options [nop,nop,TS val 3231238484 ecr 1644149376], length 1380
+17:15:22.070127 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [P.], seq 107992:108069, ack 14067, win 1473, length 77
+17:15:22.070166 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 108069:109461, ack 14067, win 1473, length 1392
+17:15:22.070171 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 109461:110853, ack 14067, win 1473, length 1392
+17:15:22.070226 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 110853:112245, ack 14067, win 1473, length 1392
+17:15:22.070231 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 112245:113637, ack 14067, win 1473, length 1392
+17:15:22.070618 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [.], seq 23808:25188, ack 43, win 1444, options [nop,nop,TS val 3231238485 ecr 1644149376], length 1380
+17:15:22.070626 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [.], seq 25188:26568, ack 43, win 1444, options [nop,nop,TS val 3231238485 ecr 1644149376], length 1380
+17:15:22.071751 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 113637:115029, ack 14067, win 1473, length 1392
+17:15:22.071764 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 115029:116421, ack 14067, win 1473, length 1392
+17:15:22.071774 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 116421:117813, ack 14067, win 1473, length 1392
+17:15:22.071777 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 117813:119205, ack 14067, win 1473, length 1392
+17:15:22.072677 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 119205:120597, ack 14067, win 1473, length 1392
+17:15:22.149860 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 108069, win 511, length 0
+17:15:22.149903 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 120597:121989, ack 14067, win 1473, length 1392
+17:15:22.149915 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 121989:123381, ack 14067, win 1473, length 1392
+17:15:22.165814 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 109461, win 511, length 0
+17:15:22.165872 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 123381:124773, ack 14067, win 1473, length 1392
+17:15:22.165901 IP ec2-52-5-181-79.compute-1.amazonaws.com.https > 192.168.1.6.50898: Flags [.], ack 18288, win 1681, options [nop,nop,TS val 1644150866 ecr 3231238484], length 0
+17:15:22.165932 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [.], seq 26568:27948, ack 43, win 1444, options [nop,nop,TS val 3231238580 ecr 1644150866], length 1380
+17:15:22.166095 IP ec2-52-5-181-79.compute-1.amazonaws.com.https > 192.168.1.6.50898: Flags [P.], seq 43:85, ack 18288, win 1681, options [nop,nop,TS val 1644150866 ecr 3231238484], length 42
+17:15:22.174744 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 110853, win 511, length 0
+17:15:22.174784 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 124773:126165, ack 14067, win 1473, length 1392
+17:15:22.177678 IP ec2-52-5-181-79.compute-1.amazonaws.com.https > 192.168.1.6.50898: Flags [P.], seq 85:131, ack 19668, win 1681, options [nop,nop,TS val 1644150869 ecr 3231238484], length 46
+17:15:22.177715 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [.], seq 27948:29328, ack 131, win 1444, options [nop,nop,TS val 3231238592 ecr 1644150866], length 1380
+17:15:22.187535 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 112245, win 511, length 0
+17:15:22.187590 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 126165:127557, ack 14067, win 1473, length 1392
+17:15:22.187809 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 14067:14102, ack 112245, win 511, length 35
+17:15:22.187856 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 14102, win 1473, length 0
+17:15:22.203073 IP ec2-52-5-181-79.compute-1.amazonaws.com.https > 192.168.1.6.50898: Flags [.], ack 22428, win 1661, options [nop,nop,TS val 1644150876 ecr 3231238484], length 0
+17:15:22.203111 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [.], seq 29328:30708, ack 131, win 1444, options [nop,nop,TS val 3231238618 ecr 1644150876], length 1380
+17:15:22.203121 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [.], seq 30708:32088, ack 131, win 1444, options [nop,nop,TS val 3231238618 ecr 1644150876], length 1380
+17:15:22.239308 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 115029, win 511, length 0
+17:15:22.239370 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 127557:128949, ack 14102, win 1473, length 1392
+17:15:22.239388 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 128949:130341, ack 14102, win 1473, length 1392
+17:15:22.239549 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 14102:14137, ack 115029, win 511, length 35
+17:15:22.239572 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], ack 14137, win 1473, length 0
+17:15:22.262218 IP ec2-52-5-181-79.compute-1.amazonaws.com.https > 192.168.1.6.50898: Flags [.], ack 23808, win 1681, options [nop,nop,TS val 1644150891 ecr 3231238484], length 0
+17:15:22.262259 IP 192.168.1.6.50898 > ec2-52-5-181-79.compute-1.amazonaws.com.https: Flags [.], seq 32088:33468, ack 131, win 1444, options [nop,nop,TS val 3231238677 ecr 1644150891], length 1380
+17:15:22.267144 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [.], ack 117813, win 511, length 0
+17:15:22.267215 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 130341:131733, ack 14137, win 1473, length 1392
+17:15:22.267232 IP 192.168.1.6.51386 > 104.16.123.127.https: Flags [.], seq 131733:133125, ack 14137, win 1473, length 1392
+17:15:22.267396 IP 104.16.123.127.https > 192.168.1.6.51386: Flags [P.], seq 14137:14172, ack 117813, win 511, length 35
+17:15:22.281722 IP ec2-52-5-181-79.compute-1.amazonaws.com.https > 192.168.1.6.50898: Flags [.], ack 25188, win 1671, options [nop,nop,TS val 1644150895 ecr 3231238485], length 0
+17:15:22.281767 IP 192.168.1.6.50898
